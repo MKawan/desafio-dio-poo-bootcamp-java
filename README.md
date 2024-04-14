@@ -1,11 +1,9 @@
-# Desafio DIO Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+# DIO Challenge Abstracting a Bootcamp Using Object Orientation in Java
 
-## APRESENTADO NO PROJETO </a> 📜 </P>
+## PRESENTED IN THE PROJECT </a> 📜 </P>
 
-<p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>Desafio este que tive a honra de co-criar com a plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
-    💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
-
-
+<p> Welcome to the challenge: <strong>LEARNING THE OBJECT ORIENTATION PARADIGM IN PRACTICE.</strong><br>This challenge I had the honor of co-creating with the online course platform <strong><br> a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 and made available free of charge to the Java developer community.<br>
+    💎 The main objective is to put into practice one of the main OO tools: <strong>ABSTRACTION, ENCAPSULATION, INHERITANCE AND POLYMORPHISM,</strong> through a Java project. </p>
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
